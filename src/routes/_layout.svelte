@@ -55,7 +55,7 @@
 
   export let segment
   export let user // a dica é: salve esse objeto no Store do Svelte
-                  // porque você vai poder fazer uso dela em qualquer
+                  // porque você vai poder fazer uso dele em qualquer
                   // lugar da sua aplicação e ainda vai manter sua
                   // reatividade
   export let langs
